@@ -2,7 +2,7 @@
  * BetterLinkedIn
  * An iOS tweak to remove ads across the LinkedIn app
  *
- * (c) Saadat Baig, me@sadat.dev
+ * (c) Saadat Baig, me@saadat.dev
 **/
 
 #import <UIKit/UIKit.h>
