@@ -1,0 +1,9 @@
+Package: dev.saadat.betterlinkedin
+Name: BetterLinkedIn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove ads across LinkedIn
+Maintainer: Saadat Baig
+Author: Saadat Baig
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
